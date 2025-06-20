@@ -17,6 +17,10 @@ Easy steps to enhance your GitHub user profile page.
 6. Download Github Desktop and log-in. (I used a VM for this)
 6.1 Log-in with Github.
 6.2 Clone the repository. 
+6.3 Make changes to files in repository.
+6.4 Switch changes to new branch.
+6.5 Commit changes adding a coauthor for Pair Extraordinaire achievement.
+6.6 Push and merge pull request.
 
 
 References:
