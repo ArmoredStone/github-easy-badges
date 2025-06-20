@@ -8,6 +8,12 @@ Easy steps to enhance your GitHub user profile page.
 4. Edit the file withing new branch of the repository.
 4.1 Push changes to Github.
 4.2 Create a pull request to merge the branch. 
+4.3 Merge the branches. 
+4.3 Repeat pull request steps one more time for Pull Shark achievement.
+5. Add a collaborator account to the Github repository.
+5.1 Make some changes and push them to a different branch.
+5.2 Merge the branches and create a pull request, choose collaborator account as a Reviewer.
+
 
 References:
 - Fenrir youtube video - HACK GITHUB ACHIEVEMENTS! (2025) - https://www.youtube[.]com/watch?v=TWPSmBzziYM 
