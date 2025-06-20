@@ -14,9 +14,12 @@ Easy steps to enhance your GitHub user profile page.
 5.1 Make some changes and push them to a different branch.
 5.2 Merge the branches and create a pull request, choose collaborator account as a Reviewer.
 5.3 Merge a pull request without reviewer approval for YOLO achievement.
+6. Download Github Desktop and log-in. (I used a VM for this)
+6.1 Log-in with Github.
+6.2 Clone the repository. 
 
 
 References:
 - Fenrir youtube video - HACK GITHUB ACHIEVEMENTS! (2025) - https://www.youtube[.]com/watch?v=TWPSmBzziYM 
 - Github Achievements drknzz github repository, last commit 2 years ago - https://github[.]com/drknzz/GitHub-Achievements
-- 
+- Github Documentation regarding profile customization - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile
