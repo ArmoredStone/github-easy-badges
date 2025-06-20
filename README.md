@@ -13,6 +13,7 @@ Easy steps to enhance your GitHub user profile page.
 5. Add a collaborator account to the Github repository.
 5.1 Make some changes and push them to a different branch.
 5.2 Merge the branches and create a pull request, choose collaborator account as a Reviewer.
+5.3 Merge a pull request without reviewer approval for YOLO achievement.
 
 
 References:
