@@ -22,8 +22,13 @@ Easy steps to enhance your GitHub user profile page.
 6.5 Commit changes adding a coauthor for Pair Extraordinaire achievement.
 6.6 Push and merge pull request.
 
+TODO:
+- Configure fancy user account repository README.md
+- Configure useful .gitconfig and other dotfiles in .dotfiles repository for convenience.
+
 
 References:
 - Fenrir youtube video - HACK GITHUB ACHIEVEMENTS! (2025) - https://www.youtube[.]com/watch?v=TWPSmBzziYM 
 - Github Achievements drknzz github repository, last commit 2 years ago - https://github[.]com/drknzz/GitHub-Achievements
 - Github Documentation regarding profile customization - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile
+- Creating Co-Authored commits in git - https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors
